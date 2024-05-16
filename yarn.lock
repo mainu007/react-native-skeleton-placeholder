@@ -416,13 +416,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-native-masked-view/masked-view@npm:^0.2.8":
-  version: 0.2.8
-  resolution: "@react-native-masked-view/masked-view@npm:0.2.8"
+"@react-native-masked-view/masked-view@npm:^0.3.1":
+  version: 0.3.1
+  resolution: "@react-native-masked-view/masked-view@npm:0.3.1"
   peerDependencies:
     react: ">=16"
     react-native: ">=0.57"
-  checksum: 10c0/d290f585789154e06296e2d7a22c2957aa321f77e12ac61d98f6c635eae0fd048de4de149ac0eedf0442a9f774675169ba68d28f22ade542aa81a7b6aa267db2
+  checksum: 10c0/e8823e69caa4f916546de528faa9beb69d25311adecaeb37a5a3e2871141754e895d1b5faa01bc0ca07b4d4b676d940191917803da53208b1be8fef857e5b502
   languageName: node
   linkType: hard
 
@@ -2079,7 +2079,7 @@ __metadata:
   resolution: "react-native-skeleton-placeholder@workspace:."
   dependencies:
     "@react-native-community/eslint-config": "npm:3.0.3"
-    "@react-native-masked-view/masked-view": "npm:^0.2.8"
+    "@react-native-masked-view/masked-view": "npm:^0.3.1"
     "@types/prop-types": "npm:^15.7.3"
     "@types/react": "npm:^16.9.17"
     "@types/react-native": "npm:^0.63.17"
@@ -2092,7 +2092,7 @@ __metadata:
     react-native-linear-gradient: "npm:^2.5.6"
     typescript: "npm:^4.0.2"
   peerDependencies:
-    "@react-native-masked-view/masked-view": ^0.2.8
+    "@react-native-masked-view/masked-view": ">=0.2.9"
     react: ">=0.14.8"
     react-native: ">=0.50.1"
     react-native-linear-gradient: ^2.5.6
